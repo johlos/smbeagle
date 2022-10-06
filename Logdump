@@ -1,0 +1,125 @@
+08:44:16.411310 IP (tos 0x0, ttl 128, id 41590, offset 0, flags [none], proto UDP (17), length 229)
+    hnikt-tos-30351.pc.hn.helsenord.no.netbios-dgm > 172.29.187.63.netbios-dgm: UDP, length 201
+08:44:16.506388 IP (tos 0x0, ttl 64, id 42571, offset 0, flags [none], proto UDP (17), length 83)
+    elasticserver.54168 > tos-dc-18.hn.helsenord.no.domain: 51791+ [1au] PTR? 63.187.29.172.in-addr.arpa. (55)
+08:44:16.508564 IP (tos 0x0, ttl 118, id 29089, offset 0, flags [none], proto UDP (17), length 174)
+    tos-dc-18.hn.helsenord.no.domain > elasticserver.54168: 51791 NXDomain* 0/1/1 (146)
+08:44:16.508682 IP (tos 0x0, ttl 64, id 42572, offset 0, flags [none], proto UDP (17), length 72)
+    elasticserver.54168 > tos-dc-18.hn.helsenord.no.domain: 51791+ PTR? 63.187.29.172.in-addr.arpa. (44)
+08:44:16.510146 IP (tos 0x0, ttl 118, id 29090, offset 0, flags [none], proto UDP (17), length 163)
+    tos-dc-18.hn.helsenord.no.domain > elasticserver.54168: 51791 NXDomain* 0/1/0 (135)
+08:44:16.510523 IP (tos 0x0, ttl 64, id 59068, offset 0, flags [none], proto UDP (17), length 83)
+    elasticserver.36145 > tos-dc-18.hn.helsenord.no.domain: 57277+ [1au] PTR? 25.187.29.172.in-addr.arpa. (55)
+08:44:16.513137 IP (tos 0x0, ttl 118, id 29091, offset 0, flags [none], proto UDP (17), length 131)
+    tos-dc-18.hn.helsenord.no.domain > elasticserver.36145: 57277* 1/0/1 25.187.29.172.in-addr.arpa. PTR hnikt-tos-30351.pc.hn.helsenord.no. (103)
+08:44:16.610493 IP (tos 0x0, ttl 64, id 29645, offset 0, flags [none], proto UDP (17), length 83)
+    elasticserver.51226 > tos-dc-18.hn.helsenord.no.domain: 15639+ [1au] PTR? 16.187.29.172.in-addr.arpa. (55)
+08:44:16.612767 IP (tos 0x0, ttl 118, id 29092, offset 0, flags [none], proto UDP (17), length 155)
+    tos-dc-18.hn.helsenord.no.domain > elasticserver.51226: 15639 NXDomain* 0/1/1 (127)
+08:44:16.612873 IP (tos 0x0, ttl 64, id 29646, offset 0, flags [none], proto UDP (17), length 72)
+    elasticserver.51226 > tos-dc-18.hn.helsenord.no.domain: 15639+ PTR? 16.187.29.172.in-addr.arpa. (44)
+08:44:16.614667 IP (tos 0x0, ttl 118, id 29093, offset 0, flags [none], proto UDP (17), length 144)
+    tos-dc-18.hn.helsenord.no.domain > elasticserver.51226: 15639 NXDomain* 0/1/0 (116)
+08:44:18.070216 STP 802.1w, Rapid STP, Flags [Learn, Forward], bridge-id 674f.4c:4e:35:2b:ec:80.8023, length 36
+	message-age 1.00s, max-age 20.00s, hello-time 2.00s, forwarding-delay 15.00s
+	root-id 174f.2c:01:b5:92:43:00, root-pathcost 10000, port-role Designated
+08:44:20.095623 STP 802.1w, Rapid STP, Flags [Learn, Forward], bridge-id 674f.4c:4e:35:2b:ec:80.8023, length 36
+	message-age 1.00s, max-age 20.00s, hello-time 2.00s, forwarding-delay 15.00s
+	root-id 174f.2c:01:b5:92:43:00, root-pathcost 10000, port-role Designated
+08:44:21.673622 ARP, Ethernet (len 6), IPv4 (len 4), Request who-has _gateway tell elasticserver, length 28
+08:44:21.675824 ARP, Ethernet (len 6), IPv4 (len 4), Reply _gateway is-at 2c:01:b5:92:43:4a (oui Unknown), length 46
+08:44:21.705893 IP (tos 0x0, ttl 64, id 46813, offset 0, flags [none], proto UDP (17), length 82)
+    elasticserver.58347 > tos-dc-18.hn.helsenord.no.domain: 29072+ [1au] PTR? 1.187.29.172.in-addr.arpa. (54)
+08:44:21.708080 IP (tos 0x0, ttl 118, id 29094, offset 0, flags [none], proto UDP (17), length 173)
+    tos-dc-18.hn.helsenord.no.domain > elasticserver.58347: 29072 NXDomain* 0/1/1 (145)
+08:44:21.708259 IP (tos 0x0, ttl 64, id 46814, offset 0, flags [none], proto UDP (17), length 71)
+    elasticserver.58347 > tos-dc-18.hn.helsenord.no.domain: 29072+ PTR? 1.187.29.172.in-addr.arpa. (43)
+08:44:21.711314 IP (tos 0x0, ttl 118, id 29095, offset 0, flags [none], proto UDP (17), length 162)
+    tos-dc-18.hn.helsenord.no.domain > elasticserver.58347: 29072 NXDomain* 0/1/0 (134)
+08:44:22.082274 IP (tos 0x0, ttl 128, id 47602, offset 0, flags [none], proto UDP (17), length 229)
+    hnikt-tos-30283.pc.hn.helsenord.no.netbios-dgm > 172.29.187.63.netbios-dgm: UDP, length 201
+08:44:22.106067 IP (tos 0x0, ttl 128, id 16542, offset 0, flags [none], proto UDP (17), length 229)
+    HNIKT-TOS-10324.pc.hn.helsenord.no.netbios-dgm > 172.29.187.63.netbios-dgm: UDP, length 201
+08:44:22.117102 STP 802.1w, Rapid STP, Flags [Learn, Forward], bridge-id 674f.4c:4e:35:2b:ec:80.8023, length 36
+	message-age 1.00s, max-age 20.00s, hello-time 2.00s, forwarding-delay 15.00s
+	root-id 174f.2c:01:b5:92:43:00, root-pathcost 10000, port-role Designated
+08:44:22.121823 IP (tos 0x0, ttl 64, id 41168, offset 0, flags [none], proto UDP (17), length 83)
+    elasticserver.40270 > tos-dc-18.hn.helsenord.no.domain: 590+ [1au] PTR? 14.187.29.172.in-addr.arpa. (55)
+08:44:22.124328 IP (tos 0x0, ttl 118, id 29096, offset 0, flags [none], proto UDP (17), length 131)
+    tos-dc-18.hn.helsenord.no.domain > elasticserver.40270: 590* 1/0/1 14.187.29.172.in-addr.arpa. PTR hnikt-tos-30283.pc.hn.helsenord.no. (103)
+08:44:22.124750 IP (tos 0x0, ttl 64, id 26431, offset 0, flags [none], proto UDP (17), length 83)
+    elasticserver.50145 > tos-dc-18.hn.helsenord.no.domain: 45111+ [1au] PTR? 27.187.29.172.in-addr.arpa. (55)
+08:44:22.126838 IP (tos 0x0, ttl 118, id 29097, offset 0, flags [none], proto UDP (17), length 131)
+    tos-dc-18.hn.helsenord.no.domain > elasticserver.50145: 45111* 1/0/1 27.187.29.172.in-addr.arpa. PTR HNIKT-TOS-10324.pc.hn.helsenord.no. (103)
+08:44:23.622615 IP (tos 0x0, ttl 64, id 18687, offset 0, flags [DF], proto TCP (6), length 60)
+    elasticserver.35010 > tos-ironportproxy-02.hn.helsenord.no.http-alt: Flags [S], cksum 0x1762 (incorrect -> 0xeebc), seq 3881111235, win 64240, options [mss 1460,sackOK,TS val 2443384592 ecr 0,nop,wscale 7], length 0
+08:44:23.625118 IP (tos 0x0, ttl 59, id 15778, offset 0, flags [DF], proto TCP (6), length 60)
+    tos-ironportproxy-02.hn.helsenord.no.http-alt > elasticserver.35010: Flags [S.], cksum 0x0f86 (correct), seq 712451281, ack 3881111236, win 65535, options [mss 1460,nop,wscale 6,sackOK,TS val 3029194305 ecr 2443384592], length 0
+08:44:23.625163 IP (tos 0x0, ttl 64, id 18688, offset 0, flags [DF], proto TCP (6), length 52)
+    elasticserver.35010 > tos-ironportproxy-02.hn.helsenord.no.http-alt: Flags [.], cksum 0x175a (incorrect -> 0x3c58), ack 1, win 502, options [nop,nop,TS val 2443384595 ecr 3029194305], length 0
+08:44:23.625264 IP (tos 0x0, ttl 64, id 18689, offset 0, flags [DF], proto TCP (6), length 288)
+    elasticserver.35010 > tos-ironportproxy-02.hn.helsenord.no.http-alt: Flags [P.], cksum 0x1846 (incorrect -> 0x5178), seq 1:237, ack 1, win 502, options [nop,nop,TS val 2443384595 ecr 3029194305], length 236: HTTP, length: 236
+	CONNECT safebrowsing.googleapis.com:443 HTTP/1.1
+	Host: safebrowsing.googleapis.com:443
+	Proxy-Connection: keep-alive
+	User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+	
+08:44:23.627349 IP (tos 0x0, ttl 59, id 15824, offset 0, flags [DF], proto TCP (6), length 52)
+    tos-ironportproxy-02.hn.helsenord.no.http-alt > elasticserver.35010: Flags [.], cksum 0x3966 (correct), ack 237, win 1020, options [nop,nop,TS val 3029194305 ecr 2443384595], length 0
+08:44:23.661315 IP (tos 0x0, ttl 59, id 17070, offset 0, flags [DF], proto TCP (6), length 91)
+    tos-ironportproxy-02.hn.helsenord.no.http-alt > elasticserver.35010: Flags [P.], cksum 0x2f60 (correct), seq 1:40, ack 237, win 1020, options [nop,nop,TS val 3029194335 ecr 2443384595], length 39: HTTP, length: 39
+	HTTP/1.1 200 Connection established
+	
+08:44:23.661345 IP (tos 0x0, ttl 64, id 18690, offset 0, flags [DF], proto TCP (6), length 52)
+    elasticserver.35010 > tos-ironportproxy-02.hn.helsenord.no.http-alt: Flags [.], cksum 0x175a (incorrect -> 0x3b03), ack 40, win 502, options [nop,nop,TS val 2443384631 ecr 3029194335], length 0
+08:44:23.661578 IP (tos 0x0, ttl 64, id 18691, offset 0, flags [DF], proto TCP (6), length 790)
+    elasticserver.35010 > tos-ironportproxy-02.hn.helsenord.no.http-alt: Flags [P.], cksum 0x1a3c (incorrect -> 0x0c35), seq 237:975, ack 40, win 502, options [nop,nop,TS val 2443384631 ecr 3029194335], length 738: HTTP
+08:44:23.663128 IP (tos 0x0, ttl 59, id 17134, offset 0, flags [DF], proto TCP (6), length 52)
+    tos-ironportproxy-02.hn.helsenord.no.http-alt > elasticserver.35010: Flags [.], cksum 0x3627 (correct), ack 975, win 1008, options [nop,nop,TS val 3029194335 ecr 2443384631], length 0
+08:44:23.706476 IP (tos 0x0, ttl 59, id 18313, offset 0, flags [DF], proto TCP (6), length 390)
+    tos-ironportproxy-02.hn.helsenord.no.http-alt > elasticserver.35010: Flags [P.], cksum 0x4351 (correct), seq 40:378, ack 975, win 1008, options [nop,nop,TS val 3029194385 ecr 2443384631], length 338: HTTP
+08:44:23.706502 IP (tos 0x0, ttl 64, id 18692, offset 0, flags [DF], proto TCP (6), length 52)
+    elasticserver.35010 > tos-ironportproxy-02.hn.helsenord.no.http-alt: Flags [.], cksum 0x175a (incorrect -> 0x3671), ack 378, win 501, options [nop,nop,TS val 2443384676 ecr 3029194385], length 0
+08:44:23.708720 IP (tos 0x0, ttl 64, id 18693, offset 0, flags [DF], proto TCP (6), length 126)
+    elasticserver.35010 > tos-ironportproxy-02.hn.helsenord.no.http-alt: Flags [P.], cksum 0x17a4 (incorrect -> 0x2c36), seq 975:1049, ack 378, win 501, options [nop,nop,TS val 2443384678 ecr 3029194385], length 74: HTTP
+08:44:23.708926 IP (tos 0x0, ttl 64, id 18694, offset 0, flags [DF], proto TCP (6), length 144)
+    elasticserver.35010 > tos-ironportproxy-02.hn.helsenord.no.http-alt: Flags [P.], cksum 0x17b6 (incorrect -> 0x7ff7), seq 1049:1141, ack 378, win 501, options [nop,nop,TS val 2443384679 ecr 3029194385], length 92: HTTP
+08:44:23.709097 IP (tos 0x0, ttl 64, id 18695, offset 0, flags [DF], proto TCP (6), length 994)
+    elasticserver.35010 > tos-ironportproxy-02.hn.helsenord.no.http-alt: Flags [P.], cksum 0x1b08 (incorrect -> 0x10d9), seq 1141:2083, ack 378, win 501, options [nop,nop,TS val 2443384679 ecr 3029194385], length 942: HTTP
+08:44:23.709794 IP (tos 0x0, ttl 59, id 18377, offset 0, flags [DF], proto TCP (6), length 52)
+    tos-ironportproxy-02.hn.helsenord.no.http-alt > elasticserver.35010: Flags [.], cksum 0x342b (correct), ack 1049, win 1007, options [nop,nop,TS val 3029194385 ecr 2443384678], length 0
+08:44:23.709957 IP (tos 0x0, ttl 59, id 18382, offset 0, flags [DF], proto TCP (6), length 52)
+    tos-ironportproxy-02.hn.helsenord.no.http-alt > elasticserver.35010: Flags [.], cksum 0x33cf (correct), ack 1141, win 1006, options [nop,nop,TS val 3029194385 ecr 2443384679], length 0
+08:44:23.710151 IP (tos 0x0, ttl 59, id 18384, offset 0, flags [DF], proto TCP (6), length 52)
+    tos-ironportproxy-02.hn.helsenord.no.http-alt > elasticserver.35010: Flags [.], cksum 0x3030 (correct), ack 2083, win 991, options [nop,nop,TS val 3029194385 ecr 2443384679], length 0
+08:44:23.743867 IP (tos 0x0, ttl 59, id 19285, offset 0, flags [DF], proto TCP (6), length 928)
+    tos-ironportproxy-02.hn.helsenord.no.http-alt > elasticserver.35010: Flags [P.], cksum 0xf661 (correct), seq 378:1254, ack 2083, win 991, options [nop,nop,TS val 3029194415 ecr 2443384679], length 876: HTTP
+08:44:23.743868 IP (tos 0x0, ttl 59, id 19300, offset 0, flags [DF], proto TCP (6), length 83)
+    tos-ironportproxy-02.hn.helsenord.no.http-alt > elasticserver.35010: Flags [P.], cksum 0x660b (correct), seq 1254:1285, ack 2083, win 991, options [nop,nop,TS val 3029194415 ecr 2443384679], length 31: HTTP
+08:44:23.743899 IP (tos 0x0, ttl 64, id 18696, offset 0, flags [DF], proto TCP (6), length 52)
+    elasticserver.35010 > tos-ironportproxy-02.hn.helsenord.no.http-alt: Flags [.], cksum 0x175a (incorrect -> 0x2e6d), ack 1254, win 501, options [nop,nop,TS val 2443384714 ecr 3029194415], length 0
+08:44:23.743922 IP (tos 0x0, ttl 64, id 18697, offset 0, flags [DF], proto TCP (6), length 52)
+    elasticserver.35010 > tos-ironportproxy-02.hn.helsenord.no.http-alt: Flags [.], cksum 0x175a (incorrect -> 0x2e4e), ack 1285, win 501, options [nop,nop,TS val 2443384714 ecr 3029194415], length 0
+08:44:23.744094 IP (tos 0x0, ttl 64, id 18698, offset 0, flags [DF], proto TCP (6), length 83)
+    elasticserver.35010 > tos-ironportproxy-02.hn.helsenord.no.http-alt: Flags [P.], cksum 0x1779 (incorrect -> 0xad73), seq 2083:2114, ack 1285, win 501, options [nop,nop,TS val 2443384714 ecr 3029194415], length 31: HTTP
+08:44:23.744841 IP (tos 0x0, ttl 59, id 19306, offset 0, flags [DF], proto TCP (6), length 2884)
+    tos-ironportproxy-02.hn.helsenord.no.http-alt > elasticserver.35010: Flags [P.], cksum 0x226a (incorrect -> 0x4cc7), seq 1285:4117, ack 2083, win 991, options [nop,nop,TS val 3029194415 ecr 2443384679], length 2832: HTTP
+08:44:23.744841 IP (tos 0x0, ttl 59, id 19316, offset 0, flags [DF], proto TCP (6), length 91)
+    tos-ironportproxy-02.hn.helsenord.no.http-alt > elasticserver.35010: Flags [P.], cksum 0xa7a2 (correct), seq 4117:4156, ack 2083, win 991, options [nop,nop,TS val 3029194425 ecr 2443384679], length 39: HTTP
+08:44:23.744874 IP (tos 0x0, ttl 64, id 18699, offset 0, flags [DF], proto TCP (6), length 52)
+    elasticserver.35010 > tos-ironportproxy-02.hn.helsenord.no.http-alt: Flags [.], cksum 0x175a (incorrect -> 0x22f7), ack 4156, win 501, options [nop,nop,TS val 2443384715 ecr 3029194415], length 0
+08:44:23.745211 IP (tos 0x0, ttl 59, id 19336, offset 0, flags [DF], proto TCP (6), length 52)
+    tos-ironportproxy-02.hn.helsenord.no.http-alt > elasticserver.35010: Flags [.], cksum 0x2105 (correct), ack 2114, win 990, options [nop,nop,TS val 3029194425 ecr 2443384714], length 0
+08:44:23.745861 IP (tos 0x0, ttl 64, id 18700, offset 0, flags [DF], proto TCP (6), length 91)
+    elasticserver.35010 > tos-ironportproxy-02.hn.helsenord.no.http-alt: Flags [P.], cksum 0x1781 (incorrect -> 0x0803), seq 2114:2153, ack 4156, win 501, options [nop,nop,TS val 2443384716 ecr 3029194425], length 39: HTTP
+08:44:23.747025 IP (tos 0x0, ttl 59, id 19430, offset 0, flags [DF], proto TCP (6), length 52)
+    tos-ironportproxy-02.hn.helsenord.no.http-alt > elasticserver.35010: Flags [.], cksum 0x20dc (correct), ack 2153, win 990, options [nop,nop,TS val 3029194425 ecr 2443384716], length 0
+08:44:24.129996 STP 802.1w, Rapid STP, Flags [Learn, Forward], bridge-id 674f.4c:4e:35:2b:ec:80.8023, length 36
+	message-age 1.00s, max-age 20.00s, hello-time 2.00s, forwarding-delay 15.00s
+	root-id 174f.2c:01:b5:92:43:00, root-pathcost 10000, port-role Designated
+08:44:26.155404 STP 802.1w, Rapid STP, Flags [Learn, Forward], bridge-id 674f.4c:4e:35:2b:ec:80.8023, length 36
+	message-age 1.00s, max-age 20.00s, hello-time 2.00s, forwarding-delay 15.00s
+	root-id 174f.2c:01:b5:92:43:00, root-pathcost 10000, port-role Designated
+08:44:27.763768 IP (tos 0x0, ttl 1, id 53742, offset 0, flags [none], proto UDP (17), length 62)
+    hnikt-tos-30283.pc.hn.helsenord.no.mdns > 224.0.0.251.mdns: 0 A (QM)? TOS-DFS-02.local. (34)
+^C08:44:27.763769 IP6 (flowlabel 0xb98b6, hlim 1, next-header UDP (17) payload length: 42) fe80::91cb:3aec:8b62:d666.mdns > ff02::fb.mdns: [udp sum ok] 0 A (QM)? TOS-DFS-02.local. (34)
